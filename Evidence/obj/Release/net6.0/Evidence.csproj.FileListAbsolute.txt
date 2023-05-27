@@ -1,0 +1,15 @@
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\bin\Release\net6.0\Evidence.exe
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\bin\Release\net6.0\Evidence.deps.json
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\bin\Release\net6.0\Evidence.runtimeconfig.json
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\bin\Release\net6.0\Evidence.dll
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\bin\Release\net6.0\Evidence.pdb
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\Evidence.csproj.AssemblyReference.cache
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\Evidence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\Evidence.AssemblyInfoInputs.cache
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\Evidence.AssemblyInfo.cs
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\Evidence.csproj.CoreCompileInputs.cache
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\Evidence.dll
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\refint\Evidence.dll
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\Evidence.pdb
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\Evidence.genruntimeconfig.cache
+C:\Users\uzivatel\source\repos\Evidence\Evidence\Evidence\obj\Release\net6.0\ref\Evidence.dll
